@@ -1,2 +1,2 @@
-# GitHub-Start-KW48
+# GitHub Lesitungsnachweis
 Einführung GitHub
